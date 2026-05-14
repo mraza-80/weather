@@ -23,7 +23,7 @@ const WeatherCond: React.FC <WeatherCondProps>=({data})=>{
       <span className="condition-description">
         {data.description}
       </span>
-        
+      
     </li>
     )
 }
